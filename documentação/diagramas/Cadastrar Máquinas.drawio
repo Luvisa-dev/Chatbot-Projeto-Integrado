@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.0.2">
+  <diagram name="Página-1" id="HpGmCYBsCwCHh7fbhITX">
+    <mxGraphModel dx="1188" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z3Y-phj3pfoVY3h4UO-M-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z3Y-phj3pfoVY3h4UO-M-1" target="Z3Y-phj3pfoVY3h4UO-M-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3Y-phj3pfoVY3h4UO-M-1" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3Y-phj3pfoVY3h4UO-M-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z3Y-phj3pfoVY3h4UO-M-3" target="Z3Y-phj3pfoVY3h4UO-M-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3Y-phj3pfoVY3h4UO-M-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Técnico de TI&lt;/font&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="235" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3Y-phj3pfoVY3h4UO-M-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Cadastrar&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Máquinas&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="370" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3Y-phj3pfoVY3h4UO-M-23" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Máquinas&lt;/font&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="235" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3Y-phj3pfoVY3h4UO-M-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Modelo da Máquina +&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Código da Máquina&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3Y-phj3pfoVY3h4UO-M-36" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ID da Máquina&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.0.2">
+  <diagram name="Página-1" id="LoT6ZZkp0NkaowFwwb6f">
+    <mxGraphModel dx="815" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g4yLLWKD8Hs4aGMwsz7B-1" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="260" y="140" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="g4yLLWKD8Hs4aGMwsz7B-2" value="&lt;div&gt;Adiar o Atendimento&lt;/div&gt;via chat" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="355" y="285" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g4yLLWKD8Hs4aGMwsz7B-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="g4yLLWKD8Hs4aGMwsz7B-3" target="g4yLLWKD8Hs4aGMwsz7B-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="292.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g4yLLWKD8Hs4aGMwsz7B-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Técnico de TI&lt;/font&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="257.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g4yLLWKD8Hs4aGMwsz7B-5" value="&lt;div&gt;Motivo&lt;/div&gt;&lt;div&gt;Adiamento&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="180" y="257.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g4yLLWKD8Hs4aGMwsz7B-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Máquinas&lt;/font&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lgGWJr5PRhiXvmmqeVlU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g4yLLWKD8Hs4aGMwsz7B-8" target="g4yLLWKD8Hs4aGMwsz7B-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lgGWJr5PRhiXvmmqeVlU-2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;ID da reclamação&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="560" y="252.5" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

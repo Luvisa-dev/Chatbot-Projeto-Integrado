@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.0.2">
+  <diagram name="Page-1" id="Uvcag1A11_DB80OPoyeW">
+    <mxGraphModel dx="983" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NPh9-JqgtDX7alFa8tX4-2" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="NPh9-JqgtDX7alFa8tX4-3" value="&lt;div&gt;Escolher uma&lt;/div&gt;&lt;div&gt;resposta simples&lt;/div&gt;&lt;div&gt;automaticamente&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="365" y="260" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NPh9-JqgtDX7alFa8tX4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NPh9-JqgtDX7alFa8tX4-5" target="NPh9-JqgtDX7alFa8tX4-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="292.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPh9-JqgtDX7alFa8tX4-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Sistema&lt;/font&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="225" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NPh9-JqgtDX7alFa8tX4-6" value="Resposta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPh9-JqgtDX7alFa8tX4-9" value="ID da reclamação" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPh9-JqgtDX7alFa8tX4-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Máquinas&lt;/font&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NPh9-JqgtDX7alFa8tX4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NPh9-JqgtDX7alFa8tX4-10" target="NPh9-JqgtDX7alFa8tX4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
