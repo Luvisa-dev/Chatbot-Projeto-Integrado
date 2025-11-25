@@ -160,7 +160,7 @@ A ser adicionado!
 
 ## 👥 7. Integrantes da Equipe
 
-* [lucas Luvisa](https://github.com/Luvisa-dev)
+* [Lucas Luvisa](https://github.com/Luvisa-dev)
 * [Vinícius Tavares](https://github.com/viniciustavareszs)
 
 ---
