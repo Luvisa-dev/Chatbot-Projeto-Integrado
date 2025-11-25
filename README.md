@@ -121,15 +121,22 @@ Tático: geração de dados sobre tipos de problemas, setores mais afetados e vo
 
 * Não Repúdio: histórico imutável e logs de ações
 
+---
+
 ## 🧪 4. Componentes Produzidos (Documentação & Desenvolvimento)
 
 O projeto envolveu:
 
 ✔️ Análise organizacional completa
+
 ✔️ Definição dos requisitos
+
 ✔️ Modelagem dos processos
+
 ✔️ Escolha de tecnologias adequadas
+
 ✔️ Desenvolvimento do fluxo do Chatbot
+
 ✔️ Proposta de segurança e governança da informação
 
 ---
