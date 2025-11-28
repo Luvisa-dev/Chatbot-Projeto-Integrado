@@ -27,7 +27,7 @@ public class Main {
      */
     public static void main(String[] args) {
 
-        System.out.println("=== Sistema de Reclamações de TI ===\n");
+        System.out.println("=== Sistema de Reclamacoees de TI ===\n");
 
         // Instancia o serviço responsável pelas operações principais do sistema
         ReclamacaoService service = new ReclamacaoService();
@@ -37,28 +37,28 @@ public class Main {
          * Cria um identificador único para uma máquina e retorna seu ID.
          */
         String idMaquina = service.cadastrarMaquina("PC", 10);
-        System.out.println("Máquina cadastrada: " + idMaquina);
+        System.out.println("Maquina cadastrada: " + idMaquina);
 
         /**
          * RF003 – Registro de Reclamação
          * Gera uma nova reclamação associada à máquina cadastrada.
          */
-        Reclamacao r = service.registrarReclamacao(idMaquina, 2, "Impressora não imprime");
-        System.out.println("Reclamação registrada: " + r.idReclamacao);
+        Reclamacao r = service.registrarReclamacao(idMaquina, 2, "Impressora nao imprime");
+        System.out.println("Reclamacao registrada: " + r.idReclamacao);
 
         /**
          * RF004 – Confirmação da Reclamação
          * Envia uma resposta ao usuário confirmando o registro.
          */
         String confirmacao = service.confirmar(r.idReclamacao);
-        System.out.println("Confirmação enviada: " + confirmacao);
+        System.out.println("Confirmacao enviada: " + confirmacao);
 
         /**
          * RF005 – Resposta Automática
          * Gera uma sugestão automática com base no problema informado.
          */
         String resposta = service.respostaAutomatica(r.idReclamacao);
-        System.out.println("Resposta automática: " + resposta);
+        System.out.println("Resposta automatica: " + resposta);
 
         /**
          * RF006 – Alterar Prioridade
@@ -86,9 +86,9 @@ public class Main {
          * Exibe todos os dados da reclamação selecionada.
          */
         Reclamacao visualizada = service.visualizar(r.idReclamacao);
-        System.out.println("\nReclamação visualizada:");
+        System.out.println("\nReclamacao visualizada:");
         System.out.println("- ID: " + visualizada.idReclamacao);
-        System.out.println("- Máquina: " + visualizada.idMaquina);
+        System.out.println("- Maquina: " + visualizada.idMaquina);
         System.out.println("- Prioridade: " + visualizada.prioridade);
         System.out.println("- Problema: " + visualizada.problema);
         System.out.println("- Status: " + visualizada.status);
@@ -97,8 +97,8 @@ public class Main {
          * RF007 – Cancelar Reclamação
          * Interrompe o atendimento e registra o motivo do cancelamento.
          */
-        String cancelada = service.cancelar(r.idReclamacao, "Usuário desistiu");
-        System.out.println("\nReclamação cancelada: " + cancelada);
+        String cancelada = service.cancelar(r.idReclamacao, "Usuario desistiu");
+        System.out.println("\nReclamacao cancelada: " + cancelada);
 
         System.out.println("\n=== Programa finalizado ===");
     }
