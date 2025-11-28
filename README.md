@@ -141,9 +141,27 @@ O projeto envolveu:
 
 ---
 
-## 🧪 5. Casos de Teste – JUnit
+## ⚙️ 5. Casos de Teste – JUnit
 
-A ser adicionado!
+O sistema contém os seguintes testes unitários validando:
+
+✔️ Cadastrar Máquinas
+
+✔️ Adiar o atendimento
+
+✔️ Registrar Reclamação pelo chat
+
+✔️ Enviar confirmação da reclamação via chat
+
+✔️ Escolher uma resposta simples automaticamente
+
+✔️ Analisar e definir qual reclamação deve levar prioridade
+
+✔️ Cancelar o pedido via chat
+
+✔️ Acompanhar andamento da reclamação pelo chat
+
+✔️ Visualizar Reclamação
 
 ---
 
